@@ -1,0 +1,44 @@
+C:\Users\9276666\AppData\Local\Temporary Projects\ColorCubes\bin\Debug\ColorCubes.exe
+C:\Users\9276666\AppData\Local\Temporary Projects\ColorCubes\bin\Debug\ColorCubes.pdb
+C:\Users\9276666\AppData\Local\Temporary Projects\ColorCubes\bin\Debug\ColorCubes.xml
+C:\Users\9276666\AppData\Local\Temporary Projects\ColorCubes\obj\x86\Debug\ColorCubes.Form1.resources
+C:\Users\9276666\AppData\Local\Temporary Projects\ColorCubes\obj\x86\Debug\ColorCubes.Resources.resources
+C:\Users\9276666\AppData\Local\Temporary Projects\ColorCubes\obj\x86\Debug\ColorCubes.vbproj.GenerateResource.Cache
+C:\Users\9276666\AppData\Local\Temporary Projects\ColorCubes\obj\x86\Debug\ColorCubes.exe
+C:\Users\9276666\AppData\Local\Temporary Projects\ColorCubes\obj\x86\Debug\ColorCubes.xml
+C:\Users\9276666\AppData\Local\Temporary Projects\ColorCubes\obj\x86\Debug\ColorCubes.pdb
+\\h0316sfs04\home$\students\9276666\my documents\visual studio 2010\Projects\ColorCubes\ColorCubes\obj\x86\Debug\ColorCubes.exe
+\\h0316sfs04\home$\students\9276666\my documents\visual studio 2010\Projects\ColorCubes\ColorCubes\obj\x86\Debug\ColorCubes.xml
+\\h0316sfs04\home$\students\9276666\my documents\visual studio 2010\Projects\ColorCubes\ColorCubes\obj\x86\Debug\ColorCubes.pdb
+\\h0316sfs04\home$\students\9276666\my documents\visual studio 2010\Projects\ColorCubes\ColorCubes\bin\Debug\ColorCubes.exe
+\\h0316sfs04\home$\students\9276666\my documents\visual studio 2010\Projects\ColorCubes\ColorCubes\bin\Debug\ColorCubes.pdb
+\\h0316sfs04\home$\students\9276666\my documents\visual studio 2010\Projects\ColorCubes\ColorCubes\bin\Debug\ColorCubes.xml
+\\h0316sfs04\home$\students\9276666\my documents\visual studio 2010\Projects\ColorCubes\ColorCubes\obj\x86\Debug\ColorCubes.Resources.resources
+\\h0316sfs04\home$\students\9276666\my documents\visual studio 2010\Projects\ColorCubes\ColorCubes\obj\x86\Debug\ColorCubes.vbproj.GenerateResource.Cache
+H:\My Documents\Visual Studio 2010\Projects\ColorCubes\ColorCubes\obj\x86\Debug\ColorCubes.exe
+H:\My Documents\Visual Studio 2010\Projects\ColorCubes\ColorCubes\obj\x86\Debug\ColorCubes.xml
+H:\My Documents\Visual Studio 2010\Projects\ColorCubes\ColorCubes\obj\x86\Debug\ColorCubes.pdb
+H:\My Documents\Visual Studio 2010\Projects\ColorCubes\ColorCubes\bin\Debug\ColorCubes.exe
+H:\My Documents\Visual Studio 2010\Projects\ColorCubes\ColorCubes\bin\Debug\ColorCubes.pdb
+H:\My Documents\Visual Studio 2010\Projects\ColorCubes\ColorCubes\bin\Debug\ColorCubes.xml
+H:\My Documents\Visual Studio 2010\Projects\ColorCubes\ColorCubes\obj\x86\Debug\ColorCubes.Resources.resources
+H:\My Documents\Visual Studio 2010\Projects\ColorCubes\ColorCubes\obj\x86\Debug\ColorCubes.vbproj.GenerateResource.Cache
+H:\My Documents\Visual Studio 2010\Projects\ColorCubes\ColorCubes\obj\x86\Debug\ColorCubes.Main.resources
+H:\My Documents\Visual Studio 2010\Projects\ColorCubes\ColorCubes\bin\Debug\ColorCubes.exe.manifest
+H:\My Documents\Visual Studio 2010\Projects\ColorCubes\ColorCubes\bin\Debug\ColorCubes.application
+H:\My Documents\Visual Studio 2010\Projects\ColorCubes\ColorCubes\obj\x86\Debug\ColorCubes.exe.manifest
+H:\My Documents\Visual Studio 2010\Projects\ColorCubes\ColorCubes\obj\x86\Debug\ColorCubes.application
+H:\My Documents\Visual Studio 2010\Projects\ColorCubes\ColorCubes\obj\x86\Debug\ColorCubes.Favorites.resources
+H:\My Documents\Visual Studio 2010\Projects\ColorCubes\ColorCubes\obj\x86\Debug\ColorCubes.History.resources
+H:\My Documents\Visual Studio 2010\Projects\ColorCubes\ColorCubes\obj\x86\Debug\ColorCubes.TrustInfo.xml
+H:\My Documents\Visual Studio 2010\Projects\ColorCubes\ColorCubes\bin\Debug\ColorCubes.exe.config
+\\H0316SFS04\Home$\Students\9276666\My Documents\Visual Studio 2010\Projects\ColorCubes\ColorCubes\bin\Debug\ColorCubes.exe.config
+\\H0316SFS04\Home$\Students\9276666\My Documents\Visual Studio 2010\Projects\ColorCubes\ColorCubes\bin\Debug\ColorCubes.exe.manifest
+\\H0316SFS04\Home$\Students\9276666\My Documents\Visual Studio 2010\Projects\ColorCubes\ColorCubes\bin\Debug\ColorCubes.application
+\\H0316SFS04\Home$\Students\9276666\My Documents\Visual Studio 2010\Projects\ColorCubes\ColorCubes\obj\x86\Debug\ColorCubes.Favorites.resources
+\\H0316SFS04\Home$\Students\9276666\My Documents\Visual Studio 2010\Projects\ColorCubes\ColorCubes\obj\x86\Debug\ColorCubes.History.resources
+\\H0316SFS04\Home$\Students\9276666\My Documents\Visual Studio 2010\Projects\ColorCubes\ColorCubes\obj\x86\Debug\ColorCubes.Main.resources
+\\H0316SFS04\Home$\Students\9276666\My Documents\Visual Studio 2010\Projects\ColorCubes\ColorCubes\obj\x86\Debug\ColorCubes.TrustInfo.xml
+\\H0316SFS04\Home$\Students\9276666\My Documents\Visual Studio 2010\Projects\ColorCubes\ColorCubes\obj\x86\Debug\ColorCubes.exe.manifest
+\\H0316SFS04\Home$\Students\9276666\My Documents\Visual Studio 2010\Projects\ColorCubes\ColorCubes\obj\x86\Debug\ColorCubes.application
+\\h0316sfs04\home$\Students\9276666\My Documents\Visual Studio 2010\Projects\ColorCubes\ColorCubes\obj\x86\Debug\ColorCubes.SplashScreen.resources
