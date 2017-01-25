@@ -1,0 +1,18 @@
+C:\Users\9276666\AppData\Local\Temporary Projects\MoneyMaker\bin\Debug\MoneyMaker.exe
+C:\Users\9276666\AppData\Local\Temporary Projects\MoneyMaker\bin\Debug\MoneyMaker.pdb
+C:\Users\9276666\AppData\Local\Temporary Projects\MoneyMaker\bin\Debug\MoneyMaker.xml
+C:\Users\9276666\AppData\Local\Temporary Projects\MoneyMaker\obj\x86\Debug\MoneyMaker.Resources.resources
+C:\Users\9276666\AppData\Local\Temporary Projects\MoneyMaker\obj\x86\Debug\MoneyMaker.vbproj.GenerateResource.Cache
+C:\Users\9276666\AppData\Local\Temporary Projects\MoneyMaker\obj\x86\Debug\MoneyMaker.exe
+C:\Users\9276666\AppData\Local\Temporary Projects\MoneyMaker\obj\x86\Debug\MoneyMaker.xml
+C:\Users\9276666\AppData\Local\Temporary Projects\MoneyMaker\obj\x86\Debug\MoneyMaker.pdb
+C:\Users\9276666\AppData\Local\Temporary Projects\MoneyMaker\obj\x86\Debug\MoneyMaker.Main.resources
+\\h0316sfs04\home$\students\9276666\my documents\visual studio 2010\Projects\MoneyMaker\MoneyMaker\obj\x86\Debug\MoneyMaker.exe
+\\h0316sfs04\home$\students\9276666\my documents\visual studio 2010\Projects\MoneyMaker\MoneyMaker\obj\x86\Debug\MoneyMaker.xml
+\\h0316sfs04\home$\students\9276666\my documents\visual studio 2010\Projects\MoneyMaker\MoneyMaker\obj\x86\Debug\MoneyMaker.pdb
+\\h0316sfs04\home$\students\9276666\my documents\visual studio 2010\Projects\MoneyMaker\MoneyMaker\bin\Debug\MoneyMaker.exe
+\\h0316sfs04\home$\students\9276666\my documents\visual studio 2010\Projects\MoneyMaker\MoneyMaker\bin\Debug\MoneyMaker.pdb
+\\h0316sfs04\home$\students\9276666\my documents\visual studio 2010\Projects\MoneyMaker\MoneyMaker\bin\Debug\MoneyMaker.xml
+\\h0316sfs04\home$\students\9276666\my documents\visual studio 2010\Projects\MoneyMaker\MoneyMaker\obj\x86\Debug\MoneyMaker.Main.resources
+\\h0316sfs04\home$\students\9276666\my documents\visual studio 2010\Projects\MoneyMaker\MoneyMaker\obj\x86\Debug\MoneyMaker.Resources.resources
+\\h0316sfs04\home$\students\9276666\my documents\visual studio 2010\Projects\MoneyMaker\MoneyMaker\obj\x86\Debug\MoneyMaker.vbproj.GenerateResource.Cache
